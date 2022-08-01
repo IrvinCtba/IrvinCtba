@@ -1,7 +1,5 @@
-<div style="display: inline_block"><br>
 <h1 align="left"> Olá! Eu sou o Rubens!👋</h1>
-
-
+<div style="display: inline_block"><br>
   <img align="right" alt="Rubens-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Rubens-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Rubens-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
