@@ -30,5 +30,5 @@
 - ☕ I love coffee, no sugar.
 - 🏄‍ Whenever I can, I go Surfing.
 - 🐶 I have a Pug called Boris.
-- 🏎 watch all formula 1 races.
+- 🏎 Watch all Formula 1 races.
   
