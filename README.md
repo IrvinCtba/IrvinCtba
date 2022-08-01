@@ -28,7 +28,7 @@
 - 💭 Fun facts about me:
 - 🧙‍ Since I was a child I like games and technology and I always used the nickname "Irvin", which comes from a Playstation RPG called Brigandine, many friends know me and call me by that name to this day. 
 - ☕ I love coffee, no sugar.
-- 🏄‍ Whenever I can I go Surfing.
+- 🏄‍ Whenever I can, I go Surfing.
 - 🐶 I have a Pug called Boris.
 - 🏎 watch all formula 1 races.
   
