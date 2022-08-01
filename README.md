@@ -13,7 +13,6 @@
  <a href="https://discord.gg/3p8HVJxV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rubens-almeida-9b4479157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/irvinCtba/irvinCtba/blob/output/github-contribution-grid-snake.svg)
 ##
 
 <div><h3>Hello! Eu sou o Rubens!👋 😁</h3></div>
