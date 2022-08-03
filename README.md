@@ -29,7 +29,7 @@
 - ☕ Amo café, puro e sem açúcar.
 - 🏄‍♂️ Sempre que posso vou Surfar, é uma terapia pra mim.
 - 🐶 Eu tenho um Pug chamado Bóris.
-- 🏎 Não perco uma corrida de Formula 1</p>
+- 🏎 Não perco uma corrida de Formula 1
   ##
     
 - 👨‍💻 I am currently in career transition and dedicating my time to JavaScript course
