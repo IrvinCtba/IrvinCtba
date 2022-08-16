@@ -24,8 +24,7 @@
 ##
 - 👨‍💻 Atualmente estou em transição de carreira e dedicando meu tempo ao curso de JavaScript.</h4>
 
-  ##
-    
+      
 - 👨‍💻 I am currently in career transition and dedicating my time to JavaScript course
 
   
