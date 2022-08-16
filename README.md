@@ -23,19 +23,9 @@
   
 ##
 - 👨‍💻 Atualmente estou em transição de carreira e dedicando meu tempo ao curso de JavaScript.</h4>
-- 💭 Alguns fatos curiosos sobre mim:
-- 🧙‍♂️ Desde criança gosto de jogos e tecnologia e sempre usei o nick "Irvin", que tem origem em um RPG de Playstation chamado Brigandine, muitos amigos me conhecem e me chamam por esse nome até hoje.
-- ☕ Amo café, puro e sem açúcar.
-- 🏄‍♂️ Sempre que posso vou Surfar, é uma terapia pra mim.
-- 🐶 Eu tenho um Pug chamado Bóris.
-- 🏎 Não perco uma corrida de Formula 1
+
   ##
     
 - 👨‍💻 I am currently in career transition and dedicating my time to JavaScript course
-- 💭 Fun facts about me:
-- 🧙‍ Since I was a child I like games and technology and I always used the nickname "Irvin", which comes from a Playstation RPG called Brigandine, many friends know me and call me by that name to this day. 
-- ☕ I love coffee, no sugar.
-- 🏄‍ Whenever I can, I go Surfing.
-- 🐶 I have a Pug called Boris.
-- 🏎 Watch all Formula 1 races.
+
   
