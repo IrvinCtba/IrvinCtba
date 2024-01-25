@@ -33,9 +33,9 @@
      
   
 ##
-- 👨‍💻 Atualmente estou em transição de carreira e dedicando meu tempo ao curso de JavaScript.</h4>
+Sou Desenvolvedor Júnior FullStack e atualmente trabalho em uma empresa de TI voltado para moda.
 
-      
-- 👨‍💻 I am currently in career transition and dedicating my time to JavaScript course
+##
+I am a Junior FullStack Developer and currently work in an IT company focused on fashion.
 
   
